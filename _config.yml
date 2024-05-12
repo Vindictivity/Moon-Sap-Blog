@@ -22,8 +22,8 @@ title: Moon Sap Blog
 email: support@moonsap.games
 description: >- # this means to ignore newlines until "baseurl:"
   © 2024. Moon Sap. All Rights Reserved.
-baseurl: "/Moon-Sap-Blog" # the subpath of your site, e.g. /blog
-url: "https://Vindictivity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.moonsap.games" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
