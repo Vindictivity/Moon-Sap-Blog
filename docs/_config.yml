@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
-remote_theme: vgvong/jekyll-theme-tao
+remote_theme: vfvong/jekyll-theme-tao
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
