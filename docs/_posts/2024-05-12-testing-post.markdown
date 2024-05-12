@@ -2,7 +2,7 @@
 layout: post
 title: Testing post
 subtitle: Some subtitle
-image: /images/2024-05-12-testing-post.webp
+image: images/2024-05-12-testing-post.webp
 author: Vindictivity
 date: 2024-05-12 17:59:50 -0000
 categories: [general news]
