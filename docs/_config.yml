@@ -30,8 +30,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: vgvong/jekyll-theme-tao
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
