@@ -1,0 +1,11 @@
+---
+layout: post
+title: Test Post 2
+subtitle: This post is a test post for test pos 2
+image: images/2024-10-04-test-post-2.webp
+author: MoonSap
+date: 2024-10-04 06:46:19 -0000
+categories: [general news]
+---
+Some words will be added for test post 1 under test post 1 post test test post post test
+        
